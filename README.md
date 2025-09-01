@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Ansh Pharate 👋  
 
-<!--
-**AnshP0106/AnshP0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student** in *Artificial Intelligence & Data Science*  
+💻 Passionate about coding, problem-solving, and building impactful projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Languages:** C++, Python  
+- **Tools & IDEs:** Git, GitHub, VS Code, PyCharm  
+- **Areas of Interest:** Artificial Intelligence, Data Science, Cybersecurity  
+
+---
+
+## 📈 Current Goals  
+- Strengthen problem-solving skills in **C++** and **Python**  
+- Build and publish personal projects  
+- Explore **Machine Learning** foundations  
+- Start contributing to **open-source**  
+
+---
+
+## 🌐 Connect with Me  
+[LinkedIn](www.linkedin.com/in/ansh-pharate)
+[Gmail](anshpharate0106ul@gmail.com)
+
+---
+
+⭐️ From [Ansh Pharate](https://github.com/AnshP0106)
